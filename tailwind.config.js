@@ -2,7 +2,12 @@
 module.exports = {
   content: ['*'],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        dab: ["CustomFont", "sans-serif"],
+        wall: ["Montserrat", "sans-serif"], 
+      },
+    },
   },
   plugins: [],
 }
