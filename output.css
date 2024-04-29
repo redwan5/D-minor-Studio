@@ -3,7 +3,7 @@
 @font-face {
   font-family: 'CustomFont';
 
-  src: url('/fonts/gellatio/Gellatio\ Regular.ttf') format(truetype)
+  src: url('fonts/gellatio/Gellatio\ Regular.ttf') format(truetype),
 }
 
 /*
